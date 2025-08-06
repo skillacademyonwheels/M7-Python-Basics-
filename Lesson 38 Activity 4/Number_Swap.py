@@ -1,7 +1,4 @@
 # Taking input from user
-from re import X
-
-
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
 
